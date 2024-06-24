@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/FabianFVega/fabianfvega.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -32,10 +33,6 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4",
     "vite": "^5.2.0"
-  },
-  {
-    "name": "client",
-    "version": "0.1.0",
-    "homepage": "https://fabianfvega.github.io",
-    "private": false
   }
+
+}
