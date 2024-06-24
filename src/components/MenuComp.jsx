@@ -17,7 +17,7 @@ export function MenuComp(){
             <div className=" grid grid-cols-4 absolute bottom-10 left-28 space-x-36 ">
                 <Link  to="https://monitoringinnovation.com/" >   MONITORING INOVATION  </Link>
                 <Link to="https://gpscontrol.co/">    GPS CONTROL   </Link>
-                <Link to="/task-create"> Link repo front</Link>
+                <Link to="https://github.com/FabianFVega/fabianfvega.github.io"> Link repo front</Link>
                 <Link to="/task-create"> link repo back</Link>
             </div>
             
